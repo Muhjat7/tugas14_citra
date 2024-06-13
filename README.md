@@ -66,8 +66,10 @@ plt.tight_layout()
 plt.show()
 
 ```
-### hasil output
+# <h1 align="center"><B>hasil Output </B></h1>
 ![image](https://github.com/Muhjat7/tugas14_citra/assets/129918243/05b01027-06e4-4ce7-87d1-31af569cb44c)
 
 ![image](https://github.com/Muhjat7/tugas14_citra/assets/129918243/e8c4694a-8179-458c-82c7-bb08637d929b)
+
+# <h1 align="center"><B>Thank you very much </B></h1>
 
